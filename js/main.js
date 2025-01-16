@@ -56,7 +56,7 @@ upDownBtn.addEventListener('click',function(){
     centeredSlides:true, //보여질 슬라이드가 가운데
     loop: true,
     autoplay:{
-    delay:1000 //5초
+    delay:5000 //5초
     },
     pagination:{
         el:'.promotion .swiper-pagination',

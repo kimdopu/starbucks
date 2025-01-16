@@ -118,7 +118,7 @@ const awardsSwiper = new Swiper('.AWARDS .swiper-container',{
     spaceBetween:30, 
     loop: true,
     autoplay:{
-    delay:100
+    delay:3000
     },
     navigation:{
         prevEl:'.AWARDS .swiper-prev',
